@@ -6,7 +6,7 @@ Primeiro dashboard com tailwindcss, vou codificar um template seguindo
    - [HTML](https://www.w3schools.com/html/)
    - [CSS](https://www.w3schools.com/css/)
 
-### Precise configurar
+## Precise configurar
 Execute o comando
 ```
 npm install -i
